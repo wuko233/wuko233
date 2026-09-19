@@ -1,6 +1,6 @@
 ## 🌐 wuko233
 
-A undergraduate student at IMUT (Inner Mongolia University of Technology) in China.
+An undergraduate student at IMUT (Inner Mongolia University of Technology) in China.
 
 You can learn more about me at [blog.wuko.top](https://blog.wuko.top).
 
@@ -47,10 +47,10 @@ You can learn more about me at [blog.wuko.top](https://blog.wuko.top).
     <!-- 右侧：两张卡片（上下或并排） -->
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://readme-stats.vercel.wuko.top/api?username=wuko233&theme=dark&show_icons=true" width="90%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=wuko233&theme=dark&show_icons=true" width="90%" />
       </p>
       <p align="center">
-        <img src="https://readme-stats.vercel.wuko.top/api/top-langs/?username=wuko233&layout=compact&theme=dark&langs_count=6" width="90%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wuko233&layout=compact&theme=dark&langs_count=6" width="90%" />
       </p>
     </td>
   </tr>
